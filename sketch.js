@@ -21,7 +21,7 @@ function setup(){
   ghost.setCollider("rectangle",30,30,210,230)
   ghost.debug = true
   ghost.scale = 0.5
-  
+  console.log("jayson is cool")
 }
 
 function draw(){
